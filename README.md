@@ -1,6 +1,8 @@
+![Untitled-2](https://github.com/nuralam33/nuralam33/assets/122554709/a7941162-9369-4152-8c05-06ddf03f64e8)
+
 ### Hi there 👋, My Name is Md Nur Alam
-#### I am a Full-Stack Web Developer
-![my banner](https://github.com/nuralam33/nuralam33/assets/122554709/8f78c2b0-2d24-4b47-a405-fc3b36ccd252)
+### I am a Full-Stack Web Developer
+
 
 I am a full stuck web developer and graphic designer ,UI And UX Designer
 
