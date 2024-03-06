@@ -1,4 +1,4 @@
-![Untitled-2](https://github.com/nuralam33/nuralam33/assets/122554709/a7941162-9369-4152-8c05-06ddf03f64e8)
+![Uploading my baner.jpg…]()
 
 ### Hi there 👋, My Name is Md Nur Alam
 ### I am a Full-Stack Web Developer
